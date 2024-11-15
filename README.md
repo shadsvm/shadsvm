@@ -5,24 +5,13 @@
 ```
 🧑🏻‍💻 Full Stack Developer
 📆 Since 2019
-```
 
-<br />
-
-> 🤙 CONTACT:
-
-```
-📥 contact@svm.engineer
-📥 samuel.kaminski@stonecode.pro
 ```
 
 <br/>
 
 > 📄 RESUME:
 
-<a href="https://svm.codes">
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Fsvm.codes&up_color=white&down_color=%23e58&style=for-the-badge&logo=polestar&logoColor=white&label=svm.codes&labelColor=black&link=https%3A%2F%2Fsvm.codes" />
-</a>
 <a href="https://svm.engineer">
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fsvm.engineer&up_color=white&down_color=%23e58&style=for-the-badge&logo=polestar&logoColor=white&label=svm.engineer&labelColor=black&link=https%3A%2F%2Fsvm.engineer%2F" />
 </a>
